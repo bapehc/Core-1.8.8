@@ -1,4 +1,4 @@
-package core;
+package net.bapehc.core;
 
 import core.cmd.ItemshopCommand;
 import org.bukkit.Bukkit;
@@ -9,8 +9,12 @@ public final class JavaCore extends JavaPlugin {
 
     @Override
     public void onEnable() {
+<<<<<<< HEAD:Piechuuu-Core/src/main/java/core/JavaCore.java
         registerCommand();
         registerListeners();
+=======
+
+>>>>>>> f72e6fabd8c8bd8a0e30a199a0b1b72f18a0cbd2:Piechuuu-Core/src/main/java/net/bapehc/core/JavaCore.java
 
     }
 
@@ -24,6 +28,5 @@ public final class JavaCore extends JavaPlugin {
 
     @Override
     public void onDisable() {
-        // Plugin shutdown logic
     }
 }
