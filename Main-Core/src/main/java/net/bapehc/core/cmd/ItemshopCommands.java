@@ -1,4 +1,8 @@
 package net.bapehc.core.cmd;
 
-public class ItemshopCommands {
+import org.bukkit.command.CommandExecutor;
+
+public class ItemshopCommands implements CommandExecutor {
+
+
 }
