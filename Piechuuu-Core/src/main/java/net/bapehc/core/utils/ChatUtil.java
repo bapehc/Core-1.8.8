@@ -1,4 +1,4 @@
-package core.utils;
+package net.bapehc.core.utils;
 
 import org.bukkit.ChatColor;
 
