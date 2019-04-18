@@ -32,8 +32,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Piechuuu-Core/src/main/java/net/bapehc/core/cmd/ItemshopCommands.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            <state relative-caret-position="204">
+              <caret line="12" column="50" selection-start-line="12" selection-start-column="50" selection-end-line="12" selection-end-column="50" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -51,10 +51,22 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Piechuuu-Core/src/main/java/net/bapehc/core/cmd/setrank.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="731">
+              <caret line="46" column="24" selection-start-line="46" selection-start-column="24" selection-end-line="46" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Piechuuu-Core/src/main/java/net/bapehc/core/cmd/CommandChat.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="763">
-              <caret line="51" column="36" lean-forward="true" selection-start-line="51" selection-start-column="36" selection-end-line="51" selection-end-column="36" />
+            <state relative-caret-position="1001">
+              <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -149,6 +161,7 @@
         <option value="$PROJECT_DIR$/Piechuuu-Core/src/main/java/net/bapehc/core/cmd/yt.java" />
         <option value="$PROJECT_DIR$/Piechuuu-Core/src/main/java/net/bapehc/core/cmd/Svip.java" />
         <option value="$PROJECT_DIR$/Piechuuu-Core/src/main/java/net/bapehc/core/cmd/CommandChat.java" />
+        <option value="$PROJECT_DIR$/Piechuuu-Core/src/main/java/net/bapehc/core/cmd/setrank.java" />
       </list>
     </option>
   </component>
@@ -390,16 +403,6 @@
     <entry file="file://$PROJECT_DIR$/Piechuuu-Core/src/main/java/net/piechuuu/core/utils/ChatUtil.java" />
     <entry file="file://$PROJECT_DIR$/Piechuuu-Core/src/main/java/net/piechuuu/core/cmd/ItemshopCommands.java" />
     <entry file="file://$PROJECT_DIR$/Piechuuu-Core/src/main/java/net/piechuuu/core/cmd/Pomoc.java" />
-    <entry file="file://$PROJECT_DIR$/Piechuuu-Core/src/main/java/net/bapehc/core/cmd/ItemshopCommands.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Piechuuu-Core/src/main/java/net/bapehc/core/utils/ChatUtil.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -444,6 +447,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/spigotmc/spigot-api/1.13.2-R0.1-SNAPSHOT/spigot-api-1.13.2-R0.1-20190418.014508-208-sources.jar!/org/bukkit/command/CommandExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Piechuuu-Core/src/main/java/net/bapehc/core/cmd/CommandChat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1001">
+          <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Piechuuu-Core/src/main/java/net/bapehc/core/cmd/Pomoc.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -451,10 +471,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Piechuuu-Core/src/main/java/net/bapehc/core/cmd/CommandChat.java">
+    <entry file="file://$PROJECT_DIR$/Piechuuu-Core/src/main/java/net/bapehc/core/cmd/ItemshopCommands.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="763">
-          <caret line="51" column="36" lean-forward="true" selection-start-line="51" selection-start-column="36" selection-end-line="51" selection-end-column="36" />
+        <state relative-caret-position="204">
+          <caret line="12" column="50" selection-start-line="12" selection-start-column="50" selection-end-line="12" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Piechuuu-Core/src/main/java/net/bapehc/core/cmd/setrank.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="46" column="24" selection-start-line="46" selection-start-column="24" selection-end-line="46" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
