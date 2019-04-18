@@ -1,6 +1,6 @@
-package net.bapehc.core.cmd;
+package core.cmd;
 
-import net.bapehc.core.utils.ChatUtil;
+import core.utils.ChatUtil;
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;
 import org.bukkit.command.CommandSender;

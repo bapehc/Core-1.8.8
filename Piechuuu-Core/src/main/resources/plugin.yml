@@ -1,0 +1,6 @@
+name: JavaCore
+version: ${project.version}
+main: JavaCore
+api-version: 1.13
+authors: [Piechuuu]
+website: www.piechuuucode.pl

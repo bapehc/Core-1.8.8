@@ -6,11 +6,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="Piechuuu-Core" />
         <module name="Main-Core" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="CorePlugin" target="1.5" />
       <module name="Main-Core" target="1.8" />
+      <module name="Piechuuu-Core" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
