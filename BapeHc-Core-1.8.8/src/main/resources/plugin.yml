@@ -1,0 +1,6 @@
+name: CorePlugin
+version: ${project.version}
+main: net.bapehc.core.CorePlugin
+api-version: 1.13
+authors: [Dawidos506, Adrianekkk, Piechuuu, Zone100054]
+website: www.bapehc.pl
